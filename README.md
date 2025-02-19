@@ -1,23 +1,15 @@
-# PCOD Analysis: Comprehensive Data Study on Polycystic Ovary Syndrome
+# PCOD Analysis: Exploratory Data Analysis and Visualizations
 
 ## Objective
-Analyze and interpret data related to Polycystic Ovary Syndrome (PCOD) to identify patterns and insights that could aid in early diagnosis and treatment.
+Analyze and interpret data related to Polycystic Ovary Syndrome (PCOD) to identify patterns and insights through Exploratory Data Analysis (EDA) and visualizations.
 
 ## Tools & Techniques
 - **Programming Language:** R
-- **Libraries:** ggplot2, dplyr, tidyr
-- **Statistical Analysis:** Correlation analysis, regression analysis
-- **Predictive Modeling:** Machine learning algorithms
+- **Libraries:** dplyr, tidyverse, janitor, ggplot2, skimr, plotly, ggbeeswarm
+- **Data Visualization:** Bar charts, heatmaps, beeswarm plots, boxplots, line charts
 
-## Key Findings
-- Significant correlations were discovered between lifestyle factors and PCOD symptoms.
-- Developed a predictive model with 85% accuracy for early detection of PCOD.
-
-## Impact
-The analysis provides valuable insights for healthcare providers, enhancing diagnosis and treatment plans for PCOD patients.
-## Future Work
-- Further refine the predictive model to improve accuracy.
-- Explore additional features that may contribute to PCOD diagnosis.
+## Data
+- **train:** Cleaned training dataset
 
 
 
