@@ -15,5 +15,9 @@ Analyze and interpret data related to Polycystic Ovary Syndrome (PCOD) to identi
 
 ## Impact
 The analysis provides valuable insights for healthcare providers, enhancing diagnosis and treatment plans for PCOD patients.
+## Future Work
+- Further refine the predictive model to improve accuracy.
+- Explore additional features that may contribute to PCOD diagnosis.
+
 
 
